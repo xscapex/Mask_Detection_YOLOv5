@@ -19,6 +19,11 @@ Step 2. Open the [iMASK_yoloV5_9000_yolov5s.ipynb](https://github.com/xscapex/Ma
 We train the model by using colab.
 Remember to use your data link.
 
-Step 3. Export model
+Step 3. Export model (Optional) 
 ---
-Export model from .pt to .engine.
+Export model from .pt to .engine if you want to inference on AIoT device (such as Jetson nano).
+
+
+Built your own docker image
+---
+
